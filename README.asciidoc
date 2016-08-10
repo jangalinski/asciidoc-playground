@@ -1,1 +1,4 @@
 # asciidoc-playouground
+
+
+include::section/table.asciidoc[]
